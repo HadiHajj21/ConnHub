@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  background-image: url(../../assets/vecteezy_satellite-and-communications-concept-of-earth-and-space_2484346.jpg);
+}
+
+button {
+  cursor: pointer;
+}
