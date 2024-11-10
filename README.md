@@ -59,10 +59,5 @@ ConnHub is a dynamic platform designed to bridge the gap between clients and ser
 
 ConnHub is open for contributions! If you'd like to help improve the platform or add new features, please feel free to submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 Thank you for visiting ConnHub! 🎉
